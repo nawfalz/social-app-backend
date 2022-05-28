@@ -7,5 +7,5 @@
 - mysql (8.0)
 
 # Requirements
-- >= java 1.8
+- a least java 1.8
 - eclipse
