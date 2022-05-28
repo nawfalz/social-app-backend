@@ -14,7 +14,7 @@
 - import the whole project inside workspace
 - make sure to choose <b>maven</b> existing project
 - fine the main java file <b>SocialApplication</b>
-- right-click -> Run As -> Java Application (or) ctrl + f11
+- right-click -> Run As -> Java Application (or) ctrl + F11
 
 # Notes
 - all code changes will be updated automatically (because of spring-boot-devtools)
