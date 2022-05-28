@@ -16,5 +16,9 @@
 - fine the main java file <b>SocialApplication</b>
 - right-click -> Run As -> Java Application (or) ctrl + F11
 
+# See the result
+
+<b>http://localhost:8080</b>
+
 # Notes
 - all code changes will be updated automatically (because of spring-boot-devtools)
